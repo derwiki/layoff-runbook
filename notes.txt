@@ -1,7 +1,18 @@
 # Layoff Runbook
 
+Being laid off can be overwhelming and it's easy to miss important tasks. This
+runbook will help make sure you stay on track.
+
+Note: this is primarily geared towards Software Engineers, although much of the
+information is general enough to be applicable to any professional.
+
 ## Before you lose access to work systems
-Make sure you can login to payroll with your personal account//download your last paystub at least
+1. Make sure you can login to payroll with your personal email
+  1. If you can't, make sure to download at least your last paystub
+1. Make sure you can log in to your 401k with your personal email
+1. Make sure you can log into any equity awards system with your personal email
+1. Make sure your address and contact information are correct with the company
+  1. You will still need to receive tax forms, and any error will be harder to correct after your last day.
 Take notes on your accomplishments at your current company before you lose access (e.g. notes on your perf cycle self-reflections)
 "Document your accomplishments: Make a list of your projects, contributions, and achievements during your time at the company. This information can be useful when updating your resume and LinkedIn profile."
 Share contact info/LinkedIn request colleagues that you trust

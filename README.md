@@ -27,6 +27,8 @@ request or email [layoffrunbook@der.wiki](mailto:layoffrunbook@der.wiki) 🙏_
 9. Sign up for Blind if your company has it
     1. Your recently laid off colleagues may post useful information
 10. Join your company's alumni Slack/Discord if it exists
+11. Back up dotfiles configurations that will be useful at your next job
+    1. e.g. iterm/git integration
 
 ## After you lose access to work systems
 1. If you're eligible, file for unemployment with the state

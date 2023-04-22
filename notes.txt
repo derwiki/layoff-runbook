@@ -1,0 +1,48 @@
+# Layoff Runbook
+
+## Before you lose access to work systems
+Make sure you can login to payroll with your personal account//download your last paystub at least
+Take notes on your accomplishments at your current company before you lose access (e.g. notes on your perf cycle self-reflections)
+"Document your accomplishments: Make a list of your projects, contributions, and achievements during your time at the company. This information can be useful when updating your resume and LinkedIn profile."
+Share contact info/LinkedIn request colleagues that you trust
+Sign the severance paperwork ASAP as to not delay payments
+Send Slack messages asking for LinkedIn endorsements from managers//asking if they will give be your reference check for your next job
+
+## Just after you lose access to work systems
+File for unemployment
+Take a breath. Do what you need to do to relax (exercise, video game, music, etc)
+
+## ??
+https://layoffs.fyi -- it's not only you
+https://layoffstracker.com
+
+## Scope your search
+Algorithms to live by 37%
+If you are allocating 3 months for a job search (12 weeks severance), do not take any offers in the first month
+- after the first month, take the first offer that is as good as the best offer from the first month
+
+## Recruiter Inbounds
+Changing your LinkedIn status to 'available looking for work'
+- pay for LinkedIn premium
+Wellfound (Angelist)
+Hired
+
+## Outreach
+HN Who Is Hiring
+HN YC company hiring posts
+http://stillhiring.today
+
+
+
+## Practice TPS/Architecture
+Interviewing.io
+Leetcode / ProjectEuler / HackerRank
+
+
+## Posts
+Gayle McDowell
+https://medium.com/layoff-aid-blog/first-4-things-to-do-when-you-get-laid-off-from-your-sf-tech-gig-b83fb43d1b4b
+
+
+### why layoffs specifically?
+they are subtly different from voluntary departure; e.g. pinging people to be your reference check because you haven't landed new job

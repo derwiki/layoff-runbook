@@ -3,8 +3,11 @@
 Being laid off can be overwhelming and it's easy to miss important tasks. This
 runbook will help make sure you stay on track.
 
-Note: this is primarily geared towards Software Engineers, although much of the
-information is general enough to be applicable to any professional.
+_Note: this is primarily geared towards Software Engineers, although much of the
+information is general enough to be applicable to any professional._
+
+_Note: this is almost assuredly incomplete, please feel free to submit a pull
+request or email [layoffrunbook@der.wiki](mailto:layoffrunbook@der.wiki) 🙏_
 
 # On your last day of work
 ## Before you lose access to work systems

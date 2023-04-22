@@ -31,6 +31,11 @@ request or email [layoffrunbook@der.wiki](mailto:layoffrunbook@der.wiki) 🙏_
 1. Remind yourself that you weren't the only one laid off, and that your company isn't the only one that's done layoffs recently:
     1. [layoffs.fyi](https://layoffs.fyi)
     1. [Layoffs Tracker](https://layoffstracker.com)
+1. Keep up professional contacts which are not directly related to job searching. Go to user
+groups and set up drinks/coffee/lunch with former co-workers.  Online too as long as it leaves
+you connected (in a way that you used to be connected at work) and isn't just doomscrolling.
+As much as you can, make this energizing in a way that applying for jobs or studying for
+interviews might not be.
 
 # Starting a job search
 ## Decide how long you want to job search for

@@ -84,3 +84,6 @@ interviews might not be.
         1. Ask trusted engineering contacts if they'd be willing to do a practice interview with you.
         1. Pay for a mock interview on [Interviewing.io](https://www.interviewing.io) to get the full CoderPad experience.
 
+## See also
+1. [Effective Immediately](https://github.com/Effective-Immediately/effective-immediately), a
+similar guide to this one

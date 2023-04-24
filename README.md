@@ -22,6 +22,7 @@ request or email [layoffrunbook@der.wiki](mailto:layoffrunbook@der.wiki) 🙏_
     2. If your company does performance reviews, your self-reflection may be a quick source to find highlights.
 6. Connect with colleagues by sharing contact info and/or requesting to add them on LinkedIn.
 7. If you are receiving severance, sign the necessary paperwork as soon as possible so that your first payment is not delayed.
+   1. NB: after reading the paperwork to make sure none of the clauses are non-starters for you.
 8. While you still have access to Slack, ask your manager, previous managers, and/or colleagues you worked closely with if they would be willing to give a reference check for you for your next role
     1. Potentially also ask for endorsements on LinkedIn.
 9. Make sure any reimbursable expenses have been filed.

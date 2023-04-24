@@ -24,10 +24,11 @@ request or email [layoffrunbook@der.wiki](mailto:layoffrunbook@der.wiki) 🙏_
 7. If you are receiving severance, sign the necessary paperwork as soon as possible so that your first payment is not delayed.
 8. While you still have access to Slack, ask your manager, previous managers, and/or colleagues you worked closely with if they would be willing to give a reference check for you for your next role
     1. Potentially also ask for endorsements on LinkedIn.
-9. Sign up for Blind if your company has it
-    1. Your recently laid off colleagues may post useful information
-10. Join your company's alumni Slack/Discord if it exists
-11. Back up dotfiles configurations that will be useful at your next job
+9. Make sure any reimbursable expenses have been filed.
+10. Sign up for Blind if your company has it.
+     1. Your recently laid off colleagues may post useful information.
+11. Join your company's alumni Slack/Discord if it exists.
+12. Back up dotfiles configurations that will be useful at your next job.
     1. e.g. iterm/git integration
 
 ## After you lose access to work systems

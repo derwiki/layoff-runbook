@@ -58,8 +58,9 @@ interviews might not be.
 ## Sign up on job marketplaces/boards for recruiter inbounds
 1. Sign up for [LinkedIn](https://www.linkedin.com) and update your LinkedIn status to 'open to work'
 2. Sign up for [Wellfound](https://www.wellfound.com) (formerly Angelist)
-3. Sign up for [Hired](https://www.hired.com)
-4. See if someone from your round of layoffs has started a Google sheet with hire-able candidates across functions from your company
+3. Sign up for [Mirajobs][https://mirajobs.com/layoffs] (supported by volunteers)
+4. Sign up for [Hired](https://www.hired.com)
+5. See if someone from your round of layoffs has started a Google sheet with hire-able candidates across functions from your company
    1. These lists are widely circulated on LinkedIn networks and in social Slack/Discord servers
 
 

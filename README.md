@@ -41,6 +41,7 @@ _If you suspect or know you will be laid off soon._
 ## After you lose access to work systems
 1. If you're eligible, file for unemployment with the state
 2. Figure out your healthcare situation (likely COBRA, which can be done retroactively)
+    1. NB: if your company shuts down _entirely_, COBRA benefits will _not_ be an option
 3. Assess personal budget, e.g.
     1. you may have regular subscriptions or contributions drawing substantial amounts of money that you want to conserve
     2. you may want to rebalance your investments

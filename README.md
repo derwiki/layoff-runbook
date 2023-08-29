@@ -75,7 +75,7 @@ interviews might not be.
 1. Sign up for [LinkedIn](https://www.linkedin.com) and update your LinkedIn status to 'open to work'
 2. Sign up for [Wellfound](https://www.wellfound.com) (formerly Angelist)
 3. Sign up for [Hired](https://www.hired.com)
-54. See if someone from your round of layoffs has started a Google sheet with hire-able candidates across functions from your company
+4. See if someone from your round of layoffs has started a Google sheet with hire-able candidates across functions from your company
    1. These lists are widely circulated on LinkedIn networks and in social Slack/Discord servers
    2. Look for or make a LinkedIn alumni group. Members can message each other.
 

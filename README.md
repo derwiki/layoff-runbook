@@ -27,6 +27,7 @@ _If you suspect or know you will be laid off soon._
 8. Sign up for Blind if your company has it.
      1. Your recently laid off colleagues may post useful information.
 9. Join your company's alumni Slack/Discord if it exists.
+10. Record your compensation or copy your compensation statement
 
 # On your last day of work
 ## Before you lose access to work systems
@@ -54,6 +55,11 @@ groups and set up drinks/coffee/lunch with former co-workers.  Online too as lon
 you connected (in a way that you used to be connected at work) and isn't just doomscrolling.
 As much as you can, make this energizing in a way that applying for jobs or studying for
 interviews might not be.
+1. Ponder what you want to do, write down what an ideal position looks like, make a mind map describing your capabilities. Ask ChatGpt to describe your capabilities based on your resume. Make a one sentence, one paragraph elevator pitch. Write your personal introduction section for your resume. 
+1. Find some good resume templates. Consider format with introduction, list of skills, list of platforms, work chronology with list of accomplishments in form (action taken, measured by, business result)
+1. Reach out to most of your contacts with your one sentence skill summary. Linked in contacts may not get the notification, try checking their contact info for an email address. You may find a manager from 25 years ago can make a job for you or an intern you mentored is willing to do a lot to find the best people in the organization. 
+1. Make a schedule. Spend some time exercising, learning, relaxing, building something.
+1. Talk to some friendly recruiters and people who just completed a job search. Learn what ATS is and why you may want several targeted resumes and may want to tailor them for different job descriptions.    
 
 # Starting a job search
 ## Decide how long you want to job search for
@@ -63,23 +69,28 @@ interviews might not be.
     2. In the last two months, accept the first offer that is at least as good as the best offer from the first month.
 3. The duration of your severance is a good starting point.
 4. Even if you're in a dire situation, take time to reflect on likes/dislikes from last job, and use this as a way to get closer to your ideal work environment.
+5. Note you may get an initial wave of interest from contacts or existing jobs that dies off if the initial search isn't successful.
 
 ## Sign up on job marketplaces/boards for recruiter inbounds
 1. Sign up for [LinkedIn](https://www.linkedin.com) and update your LinkedIn status to 'open to work'
 2. Sign up for [Wellfound](https://www.wellfound.com) (formerly Angelist)
 3. Sign up for [Hired](https://www.hired.com)
-4. See if someone from your round of layoffs has started a Google sheet with hire-able candidates across functions from your company
+54. See if someone from your round of layoffs has started a Google sheet with hire-able candidates across functions from your company
    1. These lists are widely circulated on LinkedIn networks and in social Slack/Discord servers
+   2. Look for or make a LinkedIn alumni group. Members can message each other.
 
 
 ## Find jobs to directly apply to
 1. Hacker News "Who Is Hiring" monthly threads (searchable: [whoishiring.me](https://whoishiring.me))
 1. [Jobs at YC Startups](https://news.ycombinator.com/jobs)
 1. [StillHiring.today](http://stillhiring.today)
-
+1. Search lists of companies. Where your contacts work. Top companies in industry. Top companies in town. Top growth companies. VC funding lists. Nasdaq 100. Make a spreadsheet to track where you've applied when. 
 
 
 ## Practice Technical Interviews
+1. Write down or find a list of the most common job questions
+	1. Write bullets points for each question with what your answers are. Don't forget behavioral questions and STAR technique. These answers will also help refine your search and resume. 
+	1. Questions about what you want, what you're good at, what your challenges are.
 1. Technical Phone Screen
     1. Even if you can't solve or don't have time to solve, review solutions to familiarize yourself with common patterns (e.g. using binary trees, BFS/DFS, etc) for algorithmic interviews. The programming tasks are probably not like your day-to-day programming tasks, and it may take a while to adjust.
         1. Practice algorithm interview questions:
